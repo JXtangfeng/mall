@@ -1,0 +1,46 @@
+@import './normalize.css'
+
+:root {
+    --color-text: #666;
+    --color-height-text: #ff5777;
+    --color-tint: #ff8198;
+    --color-background: #fff;
+    --font-size: 14px;
+    --line-height: 1.5;
+}
+
+::before
+::after {
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+
+body {
+    user-select: none;
+    background: var(--color-background);
+}
+
+a{
+    color: var(--color-text);
+    text-decoration: none;
+}
+
+.clear-fix::after{
+    clear: both;
+    content: '';
+    display: block;
+    width: 0px;
+    height: 0px;
+    visibility: hidden;
+}
+
+.clear-fix {
+    zoom: 1;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}

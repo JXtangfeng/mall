@@ -1,0 +1,65 @@
+{
+  "id": "2156416",
+  "name": "淘宝",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "33517",
+      "name": "cart_fill",
+      "font_class": "cartfill",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "90836",
+      "name": "baby_fill",
+      "font_class": "babyfill",
+      "unicode": "e710",
+      "unicode_decimal": 59152
+    },
+    {
+      "icon_id": "90837",
+      "name": "baby",
+      "font_class": "baby",
+      "unicode": "e711",
+      "unicode_decimal": 59153
+    },
+    {
+      "icon_id": "158873",
+      "name": "people_fill",
+      "font_class": "peoplefill",
+      "unicode": "e735",
+      "unicode_decimal": 59189
+    },
+    {
+      "icon_id": "158874",
+      "name": "people",
+      "font_class": "people",
+      "unicode": "e736",
+      "unicode_decimal": 59190
+    },
+    {
+      "icon_id": "1493652",
+      "name": "home_fill_light",
+      "font_class": "home_fill_light",
+      "unicode": "e7d8",
+      "unicode_decimal": 59352
+    },
+    {
+      "icon_id": "32471",
+      "name": "cart",
+      "font_class": "cart",
+      "unicode": "e6af",
+      "unicode_decimal": 59055
+    },
+    {
+      "icon_id": "1492012",
+      "name": "home_light",
+      "font_class": "home_light",
+      "unicode": "e7d4",
+      "unicode_decimal": 59348
+    }
+  ]
+}
